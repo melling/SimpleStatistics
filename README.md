@@ -55,7 +55,60 @@ https://simplestatistics.readthedocs.io/en/latest/
 ### Interquartile range
 
 
-###
+### Sum of Nth power deviations
+
+### Standard scores (z scores)
+
+## Linear regression
+
+### Linear regression
+
+### Linear regression line function
+
+## Similarity
+
+### Correlation
+
+### Covariance
+
+## Distributions
+
+### Factorial
+
+### Choose
+
+### Normal distribution
+
+### Binomial distribution
+
+### Bernoulli distribution
+
+### Poisson distribution
+
+### Gamma function
+
+### Beta distribution
+
+### One-sample t test
+
+### Chi Squared Distribution Table
+
+## Classifiers
+
+### Bayesian classifier
+
+### Perceptron
+
+## Errors
+
+### Error function
+
+## Hyperbolic functions
+
+### sinh
+
+### cosh
+
+### tanh
 
 ###
-
