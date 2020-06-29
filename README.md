@@ -2,7 +2,8 @@
 
 A reimplementation of this Python project in Swift.
 
-https://simplestatistics.readthedocs.io/en/latest/
+- https://simplestatistics.readthedocs.io/en/latest/
+- https://github.com/sheriferson/simplestatistics
 
 ## Other References
 
