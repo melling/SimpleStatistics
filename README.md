@@ -4,6 +4,13 @@ A reimplementation of this Python project in Swift.
 
 https://simplestatistics.readthedocs.io/en/latest/
 
+## Other References
+
+- https://simplestatistics.org
+- https://docs.python.org/3/library/statistics.html
+- https://macwright.org/2012/06/26/simple-statistics.html
+
+
 ## Descriptive statistics
 
 
