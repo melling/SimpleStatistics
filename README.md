@@ -20,13 +20,12 @@ A reimplementation of this Python project in Swift.
 ### max
 
 
-### min
 
 ### sum
 
 ### product
 
-### min
+
 
 ### quantile
 
