@@ -5,8 +5,8 @@
 //  Created by Michael Mellinger on 5/27/21.
 //
 
-import Foundation
-//import Darwin // pow
+import Foundation // pow
+
 
 public extension SimpleStatistics {
 

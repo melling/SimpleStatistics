@@ -7,8 +7,6 @@
 
 import Foundation // pow
 
-//import Darwin // pow
-
 public extension SimpleStatistics {
 
     /*
