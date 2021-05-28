@@ -1,7 +1,9 @@
-//struct SimpleStatistics {
-//    var text = "Hello, World!"
-//}
 /**
+ 
+ //struct SimpleStatistics {
+ //    var text = "Hello, World!"
+ //}
+ 
  Simple Statistics implementation in Swift
  
  The original Python Project:
