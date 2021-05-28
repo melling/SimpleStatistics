@@ -16,7 +16,7 @@ public extension SimpleStatistics {
      
      #
      */
-    func lineFunction(_ x:Double, m:Double, b:Double) {
+    func lineFunction(_ x:Double, m:Double, b:Double) -> Double {
         m * x + b
     }
     
